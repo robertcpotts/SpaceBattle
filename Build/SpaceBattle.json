@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SpaceBattle.data.unityweb",
+"asmCodeUrl": "SpaceBattle.asm.code.unityweb",
+"asmMemoryUrl": "SpaceBattle.asm.memory.unityweb",
+"asmFrameworkUrl": "SpaceBattle.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
